@@ -9,7 +9,7 @@ Copied formatted sql to clipboard.
 
 ## Download
 
-[Latest Release](https://github.com/tinytamb/alfred-sqlparse/releases/latest/download/SQL%20formatter.alfredworkflow)
+[Latest Release](https://github.com/tinytamb/alfred-sqlparse/releases/latest/download/SQL.formatter.alfredworkflow)
 
 ## Libraries
 
